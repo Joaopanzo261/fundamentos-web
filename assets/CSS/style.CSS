@@ -1,0 +1,84 @@
+/* Estilos da página index.html e contatos*/
+
+.centralizar {
+
+    text-align: center;
+}
+
+.container{
+
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.justificado {
+
+    text-align: justify;
+}
+
+.menu li {
+
+    display: inline;
+    padding: 10px;
+    
+}
+
+.menu li a {
+
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.menu li a : hover {
+    color: red;
+
+}
+
+.padding {
+
+    padding: 30px;
+}
+
+.borda {
+
+    border-radius: 50%;
+}
+
+.larguraltura {
+
+    width: 300px;
+    height: 300px;
+}
+
+.tamanho {
+
+    width: 30px;
+    height: 30px;
+
+    padding: 30px;
+}
+
+.margem{
+
+    margin-bottom: 50px;
+}
+
+.margemlateral{
+
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
